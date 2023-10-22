@@ -12,9 +12,8 @@
 - 👨‍💻 Tech Lead at [0xKYC](https://github.com/0xKYC)
 - 🔥 Passionate about building transparent long-termly win-win relationship culture
 - 👣 X-Founder of blockchain company in 2021 - Minted the token which was on the top 150 list in [coingecko.com](https://www.coingecko.com/)
-- ✈️ Digital Nomad Profile(80% work, 16% workout, 4% travel) [https://nomadlist.com/@mgmgmg](https://nomadlist.com/@mgmgmg)
-- 📫 Contact me at **coalsrbs7@gmail.com**
-
+- ✈️ Digital Nomad(80% work, 16% workout, 4% travel) [https://nomadlist.com/@mgmgmg](https://nomadlist.com/@mgmgmg)
+- 📫 Contact me at **[linkedin](https://linkedin.com/in/philip-nomad)**
 
 
 
