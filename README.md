@@ -8,8 +8,6 @@
             
 ---                    
 
- 
-- 👨‍💻 Tech Lead at [0xKYC](https://github.com/0xKYC)
 - 🔥 Passionate about building transparent long-termly win-win relationship culture
 - 👣 X-Founder of blockchain company in 2021 - Minted the token which was on the top 150 list in [coingecko.com](https://www.coingecko.com/)
 - ✈️ Digital Nomad(been to 20+ countries) [nomadlist.com](https://nomadlist.com/@mgmgmg)
