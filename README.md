@@ -11,14 +11,12 @@
 - 🔥 Passionate about building transparent long-termly win-win relationship culture
 - 👣 X-Founder of blockchain company in 2021 - Minted the token which was on the top 150 list in [coingecko.com](https://www.coingecko.com/)
 - ✈️ Digital Nomad(been to 20+ countries) [nomadlist.com](https://nomadlist.com/@mgmgmg)
-- 📫 Contact me at **[linkedin](https://linkedin.com/in/philip-nomad)**
 
 
 
 ---
 <h3 align="center">Check out my 6 years+ experiences & more than 10 awards & a patent:</h3>
 <p align="center">  
-<a href="https://linkedin.com/in/philip-nomad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip-nomad" height="30" width="40" /></a>
 </p>
 
 
