@@ -9,9 +9,6 @@
 ---                    
 
 - 🔥 Passionate about building transparent long-termly win-win relationship culture
-- 👣 X-Founder of blockchain company in 2021 - Minted the token which was on the top 150 list in [coingecko.com](https://www.coingecko.com/)
-
-
 
 ---
 <h3 align="center">Check out my 6 years+ experiences & more than 10 awards & a patent:</h3>
