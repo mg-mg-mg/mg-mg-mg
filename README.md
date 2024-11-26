@@ -1,5 +1,5 @@
 <h1 align="center">✨ MG ✨</h1>
-<h3 align="center">'A ship is safe in harbor, but that's not what ships are for. - by John A. Shedd'</h3>
+<h3 align="center">'A ship is safe in harbor, but that's not what ships are built for. - by John A. Shedd'</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=philip-nomad&label=Profile%20views&color=0e75b6&style=dracula" alt="philip-nomad" /> </p>
 
