@@ -4,11 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=philip-nomad&label=Profile%20views&color=0e75b6&style=dracula" alt="philip-nomad" /> </p>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philip-nomad&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="philip-nomad" /></a> </p>        
-            
-            
----                    
-
-- 🔥 Passionate about building transparent long-termly win-win relationship culture
 
 ---
 <h3 align="center">Check out my 6 years+ experiences & more than 10 awards & a patent:</h3>
