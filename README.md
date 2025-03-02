@@ -2,7 +2,7 @@
 
 <h3 align="center">6 years+ Software Developer - Backend, DevOps, Blockchain 👨‍💻</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philip-nomad&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="philip-nomad" /> </a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mg-mg-mg&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="mg-mg-mg" /> </a> </p>
 
 <h3 align="center">Favorite Skills 👍</h3>
 
