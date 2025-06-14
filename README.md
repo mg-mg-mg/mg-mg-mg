@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm MG 👋  </h1>
 <h6 align="center">Previously 6 years+ Software Developer - Backend, DevOps, Blockchain 👨‍💻</h6>
-<h2 align="center">💰 Algorithmic Trader 📈</h2>
+<h2 align="center">💰 Quant Trader 📈</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mg-mg-mg&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="mg-mg-mg" /> </a> </p>
 
