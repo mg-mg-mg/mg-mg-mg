@@ -95,7 +95,7 @@
 
 <h3 align="center">Patent 📄</h3>
 
-- 📄 Report evaluation device and operating method thereof [Link](https://patents.google.com/patent/KR20210115442A/en?oq=20210115442)
+- 📄 Report evaluation device and operating method thereof [Link](https://patents.google.com/patent/US12137302B2/en?oq=20210115442)
 
 ---
 
