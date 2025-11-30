@@ -101,7 +101,7 @@
 
 <h3 align="center">Education 🏫</h3>
 
-- ✅ Bachelor's of Computer Engineering, Inha University, In-cheon, South Korea (Aug 2021)
+- ✅ Bachelor's of Computer Engineering, Inha University, In-cheon, South Korea (Mar 2014 - Aug 2021)
   
 - ✈️ Exchange program in Computer Engineering, TU Chemnitz, Chemnitz, Germany (Oct 2020 - Feb 2021)
 
