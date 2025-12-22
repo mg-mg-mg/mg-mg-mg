@@ -2,8 +2,6 @@
 <h6 align="center">Previously 6 years+ Software Developer - Backend, DevOps, Blockchain 👨‍💻</h6>
 <h2 align="center">💻 Dev & Trader 📈</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mg-mg-mg&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="mg-mg-mg" /> </a> </p>
-
 <h3 align="center">Favorite Skills 👍</h3>
 
 ![TradingView](https://img.shields.io/badge/TradingView-131622?style=for-the-badge&logo=TradingView&logoColor=FFFFFF)
