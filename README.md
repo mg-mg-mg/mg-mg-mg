@@ -6,7 +6,6 @@
 
 ![TradingView](https://img.shields.io/badge/TradingView-131622?style=for-the-badge&logo=TradingView&logoColor=FFFFFF)
 ![Rust](https://img.shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust&logoColor=FFFFFF)
-![Axum](https://img.shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
 ![Binance](https://img.shields.io/badge/Binance-222222?style=for-the-badge&logo=Binance&logoColor=FFFFFF)
 ![OKX](https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=OKX&logoColor=FFFFFF)
