@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm MG 👋</h1>
-<h3 align="center">💻 8+ Years Software Developer 👨‍💻</h3>
+<h3 align="center">💻 9+ Years Software Developer 👨‍💻</h3>
 
 <p align="center">
   <a href="https://triastra.ai">
