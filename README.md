@@ -10,9 +10,9 @@
 ---
 
 ### 💡 What I Love Doing
-- **CLI & AI Workflows**: Orchestrating multi-AI agent setups directly inside the terminal.
-- **Systematizing & Simplifying**: Turning complex architecture into clear, maintainable structures.
-- **Performance Optimization**: Pushing code efficiency and execution speed to its limits.
+- **CLI & AI Workflows**: Orchestrating multi-AI agents directly inside the terminal
+- **Systematizing & Simplifying**: Turning complex architecture into clear, maintainable structures
+- **Performance Optimization**: Pushing code efficiency and execution speed to its limits
 
 ---
 
