@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm MG 👋  </h1>
-<h6 align="center">Previously 6 years+ Software Developer - Backend, DevOps, Blockchain 👨‍💻</h6>
-<h2 align="center">💻 Dev & Trader 📈</h2>
+<h6 align="center"> 8 years+ Software Developer 👨‍💻</h6>
+<h2 align="center">💻 Dev 📈</h2>
 
 <h3 align="center">Favorite Skills 👍</h3>
 
