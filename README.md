@@ -1,17 +1,21 @@
 <h1 align="center">Hi, I'm MG 👋</h1>
 <h3 align="center">💻 8+ Years Software Developer 👨‍💻</h3>
 
-
 <p align="center">
   <a href="https://triastra.ai">
     <img src="https://img.shields.io/badge/Building-TriAstra.ai-purple?style=for-the-badge&logo=rocket&logoColor=white" alt="TriAstra"/>
   </a>
 </p>
 
+---
+
+
 ### 💡 What I Love Doing
 - **Systematizing & Simplifying**: Turning complex architecture into clear, maintainable structures.
 - **Performance Optimization**: Pushing code efficiency and execution speed to its limits.
 - **CLI & AI Workflows**: Orchestrating multi-AI agent setups directly inside the terminal.
+
+---
 
 <h3 align="center">Favorite Skills 👍</h3>
 
