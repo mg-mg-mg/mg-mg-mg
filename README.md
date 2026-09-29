@@ -10,14 +10,14 @@
 ---
 
 ### 💡 What I Love Doing
-- **CLI & AI Workflows**: Orchestrating multi-AI agents directly inside the terminal
+- **CLI & AI Workflows**: Orchestrating multi-AI agents
 - **Systematizing & Simplifying**: Turning complex architecture into clear, maintainable structures
 - **Performance Optimization**: Pushing code efficiency and execution speed to its limits
 
 ---
 
 <h3 align="center">Favorite Skills 👍</h3>
-
+	
 ![Rust](https://img.shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
 ![Terraform](https://img.shields.io/badge/terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
@@ -60,7 +60,6 @@
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF)
 ![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
-![Warp](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 
 ---
 
