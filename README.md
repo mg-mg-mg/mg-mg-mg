@@ -10,7 +10,7 @@
 ---
 
 ### 💡 What I Love Doing
-- **CLI & AI Workflows**: Orchestrating multi-AI agents
+- **CLI & AI Workflows**: Orchestrating multi-AI agents - Jcode | Oh My Pi
 - **Systematizing & Simplifying**: Turning complex architecture into clear, maintainable structures
 - **Performance Optimization**: Pushing code efficiency and execution speed to its limits
 
