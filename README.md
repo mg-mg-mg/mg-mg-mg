@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm MG </h1>
-<h3 align="center">💻 9+ Years Software Developer 👨‍💻</h3>
+<h3 align="center">💻 9+ Years Software Engineer · Agentic Systems, Backend & Cloud 👨‍💻</h3>
 
 <p align="center">
   <a href="https://triastra.ai">
@@ -7,10 +7,26 @@
   </a>
 </p>
 
+<p align="center"><b>I build agent teams that ship production software, and the gates that make AI-written code trustworthy.</b></p>
+
+### 🎬 Featured: One engineer, an agent team
+
+<p align="center">
+  <a href="https://mg-mg-mg.github.io/agentic-engineering/">
+    <img src="./agentic-replay.gif" alt="Replay: a bug goes from browser-agent discovery to production deploy in 2 h 01 m, with an independent AI review in between" width="760"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>10,000+</b> commits in 9 months · <b>34-45</b> independently reviewed PRs merged per day · <b>702</b> PRs merged in one month on a client project<br/>
+  <a href="https://mg-mg-mg.github.io/agentic-engineering/"><b>Read the case study →</b></a> · <a href="https://github.com/mg-mg-mg/agentic-engineering">Source of the write-up</a>
+</p>
+
 ---
 
+
 ### 💡 What I Love Doing
-- **CLI & AI Workflows**: Orchestrating multi-AI agents - Jcode | Oh My Pi
+- **Agentic Engineering**: Running parallel coding agents with separate author, reviewer, and verifier roles (jcode, Oh My Pi, Codex, Claude Code), plus measured code-intelligence context (CodeGraph, Understand Anything)
 - **Systematizing & Simplifying**: Turning complex architecture into clear, maintainable structures
 - **Performance Optimization**: Pushing code efficiency and execution speed to its limits
 
