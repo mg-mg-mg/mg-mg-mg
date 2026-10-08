@@ -30,7 +30,7 @@
 
 
 ### 💡 What I Love Doing
-- **Agentic Engineering**: Running parallel coding agents with separate author, reviewer, and verifier roles (jcode, Oh My Pi, Codex, Claude Code), plus measured code-intelligence context (CodeGraph, Understand Anything)
+- **Agentic Engineering**: Running parallel coding agents with separate author, reviewer, and verifier roles (Oh My Pi, Codex, Claude Code), plus measured code-intelligence context (CodeGraph, Understand Anything)
 - **Fintech & Web3 backends**: payments, ZK identity, trading automation, token platforms
 - **Measured trust**: evals, typed contracts, and gates that catch errors before runtime
 
