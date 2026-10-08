@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A 7-language product used by <b>1,600+ people in 70+ countries</b>, built and run alone · median <b>1.9 h</b> from bug report to merged fix · <b>0</b> of 231 merged PRs reverted · a client's spreadsheet process turned into working portals in <b>6 days</b><br/>
+  A 7-language product with <b>1,600+ registered users</b>, built and run alone · median <b>1.9 h</b> from bug report to merged fix · <b>0</b> of 231 merged PRs reverted · a client's 15 prototype screens made real in <b>6 days</b><br/>
   <a href="https://mg-mg-mg.github.io/agentic-engineering/"><b>Read the case study →</b></a> · <a href="https://github.com/mg-mg-mg/agentic-engineering">Source of the write-up</a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <h3 align="center">Core Stack</h3>
 
-![Rust](https://img.shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust&logoColor=FFFFFF)
+![Rust](https://img.shields.io/badge/-Rust-B7410E?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
