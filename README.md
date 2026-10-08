@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b>10,000+</b> commits in 9 months · <b>34-45</b> independently reviewed PRs merged per day · <b>702</b> PRs merged in one month on a client project<br/>
+  A 7-language product used by <b>1,600+ people in 70+ countries</b>, built and run alone · bug to production in <b>2 h 01 m</b> · a client's spreadsheet process turned into working portals in <b>6 days</b><br/>
   <a href="https://mg-mg-mg.github.io/agentic-engineering/"><b>Read the case study →</b></a> · <a href="https://github.com/mg-mg-mg/agentic-engineering">Source of the write-up</a>
 </p>
 
