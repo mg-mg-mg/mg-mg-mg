@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm MG </h1>
-<h3 align="center">💻 9+ Years Software Engineer · Agentic Systems, Backend & Cloud 👨‍💻</h3>
+<h1 align="center">Hi, I'm Mingyun (MG)</h1>
+<h3 align="center">Senior Backend & AI Agent Platform Engineer · Tech Lead</h3>
 
 <p align="center">
   <a href="https://triastra.ai">
@@ -22,60 +22,34 @@
   <a href="https://mg-mg-mg.github.io/agentic-engineering/"><b>Read the case study →</b></a> · <a href="https://github.com/mg-mg-mg/agentic-engineering">Source of the write-up</a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mg-chae/">LinkedIn</a> · <a href="mailto:coalsrbs7@gmail.com">Email</a> · <a href="https://mg-mg-mg.github.io/agentic-engineering/">Case study</a> · <a href="https://github.com/mg-mg-mg/agentic-delivery-kit">agentic-delivery-kit</a>
+</p>
+
 ---
 
 
 ### 💡 What I Love Doing
 - **Agentic Engineering**: Running parallel coding agents with separate author, reviewer, and verifier roles (jcode, Oh My Pi, Codex, Claude Code), plus measured code-intelligence context (CodeGraph, Understand Anything)
-- **Systematizing & Simplifying**: Turning complex architecture into clear, maintainable structures
-- **Performance Optimization**: Pushing code efficiency and execution speed to its limits
+- **Fintech & Web3 backends**: payments, ZK identity, trading automation, token platforms
+- **Measured trust**: evals, typed contracts, and gates that catch errors before runtime
 
 ---
 
-<h3 align="center">Favorite Skills 👍</h3>
-	
+<h3 align="center">Core Stack</h3>
+
 ![Rust](https://img.shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust&logoColor=FFFFFF)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
-![Terraform](https://img.shields.io/badge/terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF)
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-
-<h3 align="center">Other Tech Stacks 💻</h3>
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
-![ElastiCache](https://img.shields.io/badge/ElastiCache-C925D1?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFFFFF)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
+![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=FFFFFF)
-![Dragonfly](https://img.shields.io/badge/Dragonfly-FF4500?style=for-the-badge&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=FFFFFF)
-![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF)
-![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF)
+![Terraform](https://img.shields.io/badge/terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
 
 ---
 
