@@ -13,11 +13,6 @@
 
 https://github.com/user-attachments/assets/91849959-3334-4412-8763-39593ca95f09
 
-<p align="center">
-  <a href="https://mg-mg-mg.github.io/agentic-engineering/#evidence">
-    <img src="./agent-blueprint.png" alt="Operating blueprint: right model for each role, clear decision rights, two sessions per change, and a real privacy leak caught by a reviewer agent" width="760"/>
-  </a>
-</p>
 
 <p align="center">
   A 7-language product with <b>1,600+ registered users</b>, built and run alone · median <b>1.9 h</b> from bug report to merged fix · <b>0</b> of 231 merged PRs reverted · a client's 15 prototype screens made real in <b>6 days</b><br/>
