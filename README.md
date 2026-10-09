@@ -11,7 +11,7 @@
 
 ### 🎬 Featured: One engineer, an agent team
 
-https://github.com/user-attachments/assets/91849959-3334-4412-8763-39593ca95f09
+https://github.com/user-attachments/assets/ce77614f-f3ba-403e-b757-bc5af9b029ba
 
 
 <p align="center">
