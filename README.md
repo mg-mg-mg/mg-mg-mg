@@ -11,9 +11,11 @@
 
 ### 🎬 Featured: One engineer, an agent team
 
+https://github.com/user-attachments/assets/91849959-3334-4412-8763-39593ca95f09
+
 <p align="center">
-  <a href="https://mg-mg-mg.github.io/agentic-engineering/">
-    <img src="./agentic-replay.gif" alt="Replay: a bug goes from browser-agent discovery to production deploy in 2 h 01 m, with an independent AI review in between" width="760"/>
+  <a href="https://mg-mg-mg.github.io/agentic-engineering/#evidence">
+    <img src="./agent-blueprint.png" alt="Operating blueprint: right model for each role, clear decision rights, two sessions per change, and a real privacy leak caught by a reviewer agent" width="760"/>
   </a>
 </p>
 
