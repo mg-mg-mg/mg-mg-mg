@@ -28,7 +28,8 @@ https://github.com/user-attachments/assets/ce77614f-f3ba-403e-b757-bc5af9b029ba
 
 ### 💡 What I Love Doing
 - **Agentic Engineering**: Running parallel coding agents with separate author, reviewer, and verifier roles (Oh My Pi, Codex, Claude Code), plus measured code-intelligence context (CodeGraph, Understand Anything)
-- **Fintech & Web3 backends**: payments, ZK identity, trading automation, token platforms
+- **LLM products**: grounded, schema-validated LLM features with regression evals, cost guardrails and privacy-safe tracing (TriAstra, plus a ChatGPT app served from a Rust MCP server)
+- **Payments & Web3 backends**: subscriptions and refunds, ZK identity, trading automation, token platforms
 - **Measured trust**: evals, typed contracts, and gates that catch errors before runtime
 
 ---
