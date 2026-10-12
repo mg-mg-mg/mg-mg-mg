@@ -38,7 +38,6 @@ https://github.com/user-attachments/assets/ce77614f-f3ba-403e-b757-bc5af9b029ba
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
 ![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=FFFFFF)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -61,9 +60,9 @@ https://github.com/user-attachments/assets/ce77614f-f3ba-403e-b757-bc5af9b029ba
 
 ---
 
-<h3 align="center">Patent 📄</h3>
+<h3 align="center">Patents 📄</h3>
 
-- 📄 **Report evaluation device and operating method thereof** | [US12137302B2](https://patents.google.com/patent/US12137302B2/en?oq=20210115442)
+- 📄 **Report evaluation device and operating method thereof** (inventor, Hyperconnect) | [US12137302B2](https://patents.google.com/patent/US12137302B2/en) · [KR102503049B1](https://patents.google.com/patent/KR102503049B1/en)
 
 ---
 
