@@ -25,6 +25,23 @@ https://github.com/user-attachments/assets/ce77614f-f3ba-403e-b757-bc5af9b029ba
 
 ---
 
+### 🔧 Open Source
+
+Harness bugs I hit while running many concurrent coding agents, reproduced, fixed and sent upstream ([why](https://mg-mg-mg.github.io/agentic-engineering/#upstream)):
+
+| Project | Contribution | Status |
+|---|---|---|
+| [oh-my-pi](https://github.com/can1357/oh-my-pi) ★35k | [Unblock `read` on process substitution](https://github.com/can1357/oh-my-pi/pull/15504) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15504) |
+| | [Unblock `mapfile`/`readarray` on process substitution](https://github.com/can1357/oh-my-pi/pull/15647) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15647) |
+| | [Report the persisted value a config save replaces](https://github.com/can1357/oh-my-pi/pull/15478) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15478) |
+| [jcode](https://github.com/1jehuang/jcode) ★20k | [Group contiguous TUI typing into one undo step](https://github.com/1jehuang/jcode/pull/1714) | ![status](https://img.shields.io/github/pulls/detail/state/1jehuang/jcode/1714) |
+| | [Restore rustfmt on CI](https://github.com/1jehuang/jcode/pull/1739) | ![status](https://img.shields.io/github/pulls/detail/state/1jehuang/jcode/1739) |
+
+Also reported: [worktree clones copying `.env` secrets](https://github.com/can1357/oh-my-pi/issues/15476) · [disk exhaustion from per-worktree build caches](https://github.com/can1357/oh-my-pi/issues/15475)
+
+---
+
+
 
 ### 💡 What I Love Doing
 - **Agentic Engineering**: Running parallel coding agents with separate author, reviewer, and verifier roles (Oh My Pi, Codex, Claude Code), plus measured code-intelligence context (CodeGraph, Understand Anything)
