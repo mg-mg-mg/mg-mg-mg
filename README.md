@@ -34,8 +34,12 @@ Harness bugs I hit while running many concurrent coding agents, reproduced, fixe
 | [oh-my-pi](https://github.com/can1357/oh-my-pi) ★35k | [Unblock `read` on process substitution](https://github.com/can1357/oh-my-pi/pull/15504) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15504) |
 | | [Unblock `mapfile`/`readarray` on process substitution](https://github.com/can1357/oh-my-pi/pull/15647) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15647) |
 | | [Report the persisted value a config save replaces](https://github.com/can1357/oh-my-pi/pull/15478) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15478) |
+| | [Return a re-tasked agent's latest result from `agent://`](https://github.com/can1357/oh-my-pi/pull/15707) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15707) |
+| | [Count argv/envp pointers so `xargs` splits large inputs](https://github.com/can1357/oh-my-pi/pull/15708) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15708) |
+| | [Let cancelled jobs run TERM cleanup before a hard kill](https://github.com/can1357/oh-my-pi/pull/15709) | ![status](https://img.shields.io/github/pulls/detail/state/can1357/oh-my-pi/15709) |
 | [jcode](https://github.com/1jehuang/jcode) ★20k | [Group contiguous TUI typing into one undo step](https://github.com/1jehuang/jcode/pull/1714) | ![status](https://img.shields.io/github/pulls/detail/state/1jehuang/jcode/1714) |
 | | [Restore rustfmt on CI](https://github.com/1jehuang/jcode/pull/1739) | ![status](https://img.shields.io/github/pulls/detail/state/1jehuang/jcode/1739) |
+| [ts-rs](https://github.com/Aleph-Alpha/ts-rs) ★1.9k | [Remove trailing spaces before documented fields](https://github.com/Aleph-Alpha/ts-rs/pull/501) | ![status](https://img.shields.io/github/pulls/detail/state/Aleph-Alpha/ts-rs/501) |
 
 Also reported: [worktree clones copying `.env` secrets](https://github.com/can1357/oh-my-pi/issues/15476) · [disk exhaustion from per-worktree build caches](https://github.com/can1357/oh-my-pi/issues/15475)
 
