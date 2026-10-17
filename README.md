@@ -1,38 +1,42 @@
-# Hi, I'm Mingyun (MG)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Mingyun Chae — Senior Backend & AI Agent Platform Engineer. I build software with AI agents and make the tools behind them reliable." src="assets/banner-light.svg" width="100%">
+</picture>
 
-**Senior Backend & AI Agent Platform Engineer · Tech Lead**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mg-chae/">LinkedIn</a> ·
+  <a href="mailto:coalsrbs7@gmail.com">Email</a> ·
+  <a href="https://mg-mg-mg.github.io/agentic-engineering/">Engineering case study</a>
+  <br>
+  <sub>Open to remote opportunities and relocation.</sub>
+</p>
 
-I build and operate software with AI agents, and improve the infrastructure that makes their work reliable. My focus is AI-native product and platform engineering: turning agent capabilities into working systems with typed contracts, independent review, and risk-based verification.
+### Building
 
-**Open to remote opportunities and relocation.**
+**[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
 
-[LinkedIn](https://www.linkedin.com/in/mg-chae/) · [Email](mailto:coalsrbs7@gmail.com) · [Engineering case study](https://mg-mg-mg.github.io/agentic-engineering/)
+[How the agent team works →](https://mg-mg-mg.github.io/agentic-engineering/)
 
-## Building with AI
+### Open source
 
-I build and run **[TriAstra](https://triastra.ai)** as a solo engineer, using AI agents across implementation, review, verification, and operations. I own product direction, priorities, and the boundaries of delegated work.
+Fixes for problems I hit while running coding agents on real work.
 
-- **Production practice:** a multilingual product with Rust services, web and mobile clients, and a ChatGPT integration.
-- **Engineering approach:** separate author and reviewer roles, generated API contracts, regression checks, and verification of the changed behavior—not just passing builds.
+- **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — Agent replies sent over messaging are acknowledged instead of reported as “no output.” · [Merged](https://github.com/can1357/oh-my-pi/pull/15834)
+- **[jcode](https://github.com/1jehuang/jcode)** — Contiguous typing, including Korean IME input, undoes in one step. · [Merged](https://github.com/1jehuang/jcode/pull/1714)
+- **[OpenTelemetry Rust](https://github.com/open-telemetry/opentelemetry-rust)** — A failed export is no longer hidden by a later successful batch during a flush. · [Open](https://github.com/open-telemetry/opentelemetry-rust/pull/3791)
 
-[Read the case study](https://mg-mg-mg.github.io/agentic-engineering/) · [Explore the historical/synthetic reference kit](https://github.com/mg-mg-mg/agentic-delivery-kit)
+[All contributions →](CONTRIBUTIONS.md)
 
-## Selected open-source contributions
+### Stack
 
-Using coding agents in real projects exposes failures in the tools themselves. I reproduce those problems and contribute focused fixes upstream.
+Rust · TypeScript · Python · PostgreSQL · AWS · GCP · Cloudflare
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| **oh-my-pi** · TypeScript | [Correctly acknowledge agent replies sent through messaging rather than reporting “no output.”](https://github.com/can1357/oh-my-pi/pull/15834) | Merged |
-| **jcode** · Rust | [Make contiguous typing undo as one step, including Korean IME input.](https://github.com/1jehuang/jcode/pull/1714) | Merged |
-| **OpenTelemetry Rust** | [Preserve an export failure when a later batch succeeds during a flush.](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) | Open |
+<details>
+<summary>Background, awards & patent</summary>
 
-[Full contribution index](CONTRIBUTIONS.md) — including Flutter, ts-rs, additional fixes, and bug reports. Status snapshot: October 17, 2026; linked PRs show the latest state.
+- Previously built payments and Web3 backends.
+- Named inventor, [US12137302B2](https://patents.google.com/patent/US12137302B2/en) (Hyperconnect).
+- 1st place, [DAO Global Hackathon 2023](https://github.com/0xKYC/0xkyc-1vote-aragon-plugin) and [Aptos Seoul Hack 2023](https://github.com/catze-labs/AptosSeoulHack2023-AptoPlay-info).
+- B.S. in Computer Engineering, Inha University · exchange studies at TU Chemnitz, Germany.
 
-## Background
-
-**Core tools:** Rust, TypeScript, Python, PostgreSQL, and cloud infrastructure.
-
-Previously worked on payments and Web3 backends. Named inventor on [US12137302B2](https://patents.google.com/patent/US12137302B2/en) at Hyperconnect. Hackathon awards include [DAO Global Hackathon 2023](https://github.com/0xKYC/0xkyc-1vote-aragon-plugin) and [Aptos Seoul Hack 2023](https://github.com/catze-labs/AptosSeoulHack2023-AptoPlay-info).
-
-B.S. in Computer Engineering, Inha University · Exchange studies at TU Chemnitz, Germany.
+</details>

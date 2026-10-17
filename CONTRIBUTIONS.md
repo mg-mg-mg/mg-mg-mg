@@ -4,7 +4,7 @@
 
 My recent upstream work focuses on coding-agent reliability, developer tools, and Rust infrastructure. This index includes merged changes, open proposals, closed unmerged proposals, and problem reports; these are different outcomes, not interchangeable claims of adoption.
 
-Status snapshot: **October 17, 2026**. Follow the linked PR or issue for its current state. “Closed” on an issue does not by itself establish that my proposed fix was merged.
+Status snapshot: **October 17, 2026 at 09:56 UTC**. Follow the linked PR or issue for its current state. “Closed” on an issue does not by itself establish that my proposed fix was merged.
 
 ## Pull requests
 
