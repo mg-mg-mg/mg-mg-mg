@@ -15,13 +15,13 @@
 
 ### Building
 
-**Solo-built product · 7 languages · 3,635 Rust server-library tests.**
+**Solo-built product · 1,700+ registered users · 7 languages · 3,635 Rust server-library tests.**
 
 **[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
 
 **Engineering scale:** 897 repository-wide merged PRs counted on October 15, 2026, covering merges since September 15.
 
-<sub>Counts as of October 15–17, 2026: repository-wide merged PRs since September 15; Rust server-library test target.</sub>
+<sub>Counts as of October 15–17, 2026: registered accounts excluding deleted or suspended; repository-wide merged PRs since September 15; Rust server-library test target.</sub>
 
 [How the agent team works →](https://mg-mg-mg.github.io/agentic-engineering/)
 
