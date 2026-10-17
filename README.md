@@ -1,6 +1,8 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Mingyun Chae — Senior Backend & AI Agent Platform Engineer. I build software with AI agents and make the tools behind them reliable." src="assets/banner-light.svg" width="100%">
+  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. 7 merged upstream PRs, 4 hackathon first places, and US and Korean patent registrations. Contribution snapshot: October 17, 2026." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -13,7 +15,13 @@
 
 ### Building
 
+**Solo-built product · 7 languages · 3,635 Rust server-library tests.**
+
 **[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
+
+**Engineering scale:** 897 repository-wide merged PRs counted on October 15, 2026, covering merges since September 15.
+
+<sub>Counts as of October 15–17, 2026: repository-wide merged PRs since September 15; Rust server-library test target.</sub>
 
 [How the agent team works →](https://mg-mg-mg.github.io/agentic-engineering/)
 
@@ -21,9 +29,12 @@
 
 Fixes for problems I hit while running coding agents on real work.
 
+**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) (~35.7k stars) and [jcode](https://github.com/1jehuang/jcode) (~21k stars), including shell execution, agent coordination and Korean IME input. Counts checked October 17, 2026.
+
 - **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — Agent replies sent over messaging are acknowledged instead of reported as “no output.” · [Merged](https://github.com/can1357/oh-my-pi/pull/15834)
 - **[jcode](https://github.com/1jehuang/jcode)** — Contiguous typing, including Korean IME input, undoes in one step. · [Merged](https://github.com/1jehuang/jcode/pull/1714)
 - **[OpenTelemetry Rust](https://github.com/open-telemetry/opentelemetry-rust)** — A failed export is no longer hidden by a later successful batch during a flush. · [Open](https://github.com/open-telemetry/opentelemetry-rust/pull/3791)
+- **[Flutter](https://github.com/flutter/flutter)** (~180k stars) — Keep Flutter SDK Git queries from inheriting a Git hook’s repository environment. · [Open](https://github.com/flutter/flutter/pull/194429)
 
 [All contributions →](CONTRIBUTIONS.md)
 
@@ -42,7 +53,7 @@ Rust · TypeScript · Python · PostgreSQL · Redis · Kafka · AWS · GCP · Cl
 
 ### Patent
 
-Named inventor at **Hyperconnect** — *Report evaluation device and operating method thereof* · [US12137302B2](https://patents.google.com/patent/US12137302B2/en) · [KR102503049B1](https://patents.google.com/patent/KR102503049B1/en)
+Named inventor at **Hyperconnect** ([acquired by Match Group for $1.725B](https://ir.mtch.com/investor-relations/news-events/news-events/news-details/2021/Match-Group-Closes-Acquisition-of-Hyperconnect/default.aspx)) — *Report evaluation device and operation method thereof*, a learning-model-based method for evaluating the reliability of user reports · [US12137302B2](https://patents.google.com/patent/US12137302B2/en) · [KR102503049B1](https://patents.google.com/patent/KR102503049B1/en)
 
 ### Background
 
