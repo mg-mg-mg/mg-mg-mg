@@ -29,14 +29,23 @@ Fixes for problems I hit while running coding agents on real work.
 
 ### Stack
 
-Rust · TypeScript · Python · PostgreSQL · AWS · GCP · Cloudflare
+Rust · TypeScript · Python · PostgreSQL · Redis · Kafka · AWS · GCP · Cloudflare · Terraform · Kubernetes
 
-<details>
-<summary>Background, awards & patent</summary>
+### Hackathon awards
+
+- **1st place — DAO Global Hackathon 2023**, Aragon: Most Creative Use of Aragon OSx · [Project](https://github.com/0xKYC/0xkyc-1vote-aragon-plugin)
+- **1st place — Aptos Seoul Hack 2023**, Gaming Track · [Project](https://github.com/catze-labs/AptosSeoulHack2023-AptoPlay-info)
+- **1st place — Coinbase Hackathon: Buidl The Future**, XDC Open Ideas Track · [Project](https://github.com/catze-labs/CoinbaseBuidlTheFuture-R3plica-info)
+- **1st place — Klaymakers22 Global Hackathon**, NFT & Metaverse Track · [Project](https://github.com/catze-labs/Klaymakers2022-KUP-info)
+- **2nd place — BNB Chain Innovation Hackathon Seoul** · [Project](https://github.com/catze-labs/BNBChainInnovationHackathon-r3plica-info)
+- **ETHGlobal Tokyo — Polygon Pool Prize & Scroll (Just Deploy)** · [Project](https://github.com/catze-labs/jury-dao-info)
+
+### Patent
+
+Named inventor at **Hyperconnect** — *Report evaluation device and operating method thereof* · [US12137302B2](https://patents.google.com/patent/US12137302B2/en) · [KR102503049B1](https://patents.google.com/patent/KR102503049B1/en)
+
+### Background
 
 - Previously built payments and Web3 backends.
-- Named inventor, [US12137302B2](https://patents.google.com/patent/US12137302B2/en) (Hyperconnect).
-- 1st place, [DAO Global Hackathon 2023](https://github.com/0xKYC/0xkyc-1vote-aragon-plugin) and [Aptos Seoul Hack 2023](https://github.com/catze-labs/AptosSeoulHack2023-AptoPlay-info).
-- B.S. in Computer Engineering, Inha University · exchange studies at TU Chemnitz, Germany.
-
-</details>
+- **B.S. in Computer Engineering**, Inha University (March 2014 – August 2021).
+- **Exchange Program in Computer Engineering**, TU Chemnitz, Germany (October 2020 – February 2021).
