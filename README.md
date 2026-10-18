@@ -66,7 +66,7 @@ Fixes for problems I hit while running coding agents on real work.
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img alt="Rust, TypeScript, JavaScript, Python, Dart, Java, Ruby" src="https://skillicons.dev/icons?i=rust,ts,js,py,dart,java,ruby" height="40"><br>
+    <td><img alt="Rust, TypeScript, JavaScript, Python, Go, Dart, Java, Ruby" src="https://skillicons.dev/icons?i=rust,ts,js,py,go,dart,java,ruby" height="40"><br>
       <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square"></td>
   </tr>
   <tr>
