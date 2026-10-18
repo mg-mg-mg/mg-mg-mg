@@ -19,9 +19,9 @@
 
 **[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
 
-**Engineering scale:** 897 repository-wide merged PRs counted on October 15, 2026, covering merges since September 15.
+**Engineering scale:** 1,054 repository-wide merged PRs since September 15, 2026; 1,051 in the last 30 UTC calendar days (September 19–October 18), including 782 during October 11–18. Counted October 18, 2026; all authors, including bots.
 
-<sub>Counts as of October 15–17, 2026: registered accounts excluding deleted or suspended; repository-wide merged PRs since September 15; Rust server-library test target.</sub>
+<sub>Registered-user and Rust server-library test figures retain their October 15–17, 2026 snapshot; they were not remeasured for this update. PR counts use GitHub merged-date search, not a measure of quality or individual productivity; October 18 is a partial day.</sub>
 
 [How the agent team works →](https://mg-mg-mg.github.io/agentic-engineering/)
 
@@ -29,7 +29,7 @@
 
 Fixes for problems I hit while running coding agents on real work.
 
-**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) (~35.7k stars) and [jcode](https://github.com/1jehuang/jcode) (~21k stars), including shell execution, agent coordination and Korean IME input. Counts checked October 17, 2026.
+**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **5 open proposals** across those projects, OpenTelemetry Rust, ts-rs and Flutter. Counted October 18, 2026. The banners retain their October 17 snapshot of the same seven merged PRs.
 
 - **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — Agent replies sent over messaging are acknowledged instead of reported as “no output.” · [Merged](https://github.com/can1357/oh-my-pi/pull/15834)
 - **[jcode](https://github.com/1jehuang/jcode)** — Contiguous typing, including Korean IME input, undoes in one step. · [Merged](https://github.com/1jehuang/jcode/pull/1714)
@@ -37,6 +37,15 @@ Fixes for problems I hit while running coding agents on real work.
 - **[Flutter](https://github.com/flutter/flutter)** (~180k stars) — Keep Flutter SDK Git queries from inheriting a Git hook’s repository environment. · [Open](https://github.com/flutter/flutter/pull/194429)
 
 [All contributions →](CONTRIBUTIONS.md)
+
+### Reliability log
+
+- Release-path code merged without required admission evidence → recorded the gap without backdating, completed evidence afterwards, and made the merge tool refuse missing or inconsistent admission lines.
+- Independent review reproduced cleanup races that could delete a replaced file → fixed before merge with atomic quarantine rename and identity/content verification.
+- Production build sizing → budgeted 32 GB; measured a sampled 14.7 GB peak RSS and zero swap during one build, not a universal capacity guarantee.
+- A Git hook leaked repository variables into a test fixture and flipped `core.bare` → isolated Git environments locally; proposed the same bug-class fix in [Flutter #194429](https://github.com/flutter/flutter/pull/194429) (open).
+
+Private-operation accounts, not publicly reproducible incident records. [Methods, limits and current practice →](https://mg-mg-mg.github.io/agentic-engineering/)
 
 ### Stack
 

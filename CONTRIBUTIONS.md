@@ -4,7 +4,7 @@
 
 My recent upstream work focuses on coding-agent reliability, developer tools, and Rust infrastructure. This index includes merged changes, open proposals, closed unmerged proposals, and problem reports; these are different outcomes, not interchangeable claims of adoption.
 
-Status snapshot: **October 17, 2026 at 09:56 UTC**. Follow the linked PR or issue for its current state. “Closed” on an issue does not by itself establish that my proposed fix was merged.
+PR status snapshot: **October 18, 2026 at 09:24 UTC**: **7 merged, 5 open and 3 closed without merge** across the five recent upstream projects below. Counted with GitHub search `author:mg-mg-mg is:pr is:public -user:mg-mg-mg -org:TriAstra-ai`, filtered to those five repositories; earlier project-development PRs are excluded from these totals. Follow each linked PR for its current state. Issue statuses below retain their October 17 snapshot; “Closed” on an issue does not by itself establish that my proposed fix was merged.
 
 ## Pull requests
 
