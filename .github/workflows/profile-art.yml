@@ -1,6 +1,6 @@
 name: Profile art
 
-# Regenerates the contribution snake and 3D contribution card shown in README.md.
+# Regenerates the contribution snake shown in README.md.
 # Output goes to the `output` branch so main history stays clean.
 on:
   schedule:
@@ -22,14 +22,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v5
-
-      - name: 3D contribution card
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
       - name: Contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -37,12 +29,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Collect images
-        run: |
-          mkdir -p dist
-          cp profile-3d-contrib/profile-night-rainbow.svg dist/
-          cp profile-3d-contrib/profile-green-animate.svg dist/
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
