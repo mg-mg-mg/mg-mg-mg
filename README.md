@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. 7 merged upstream PRs, 4 hackathon first places, and US and Korean patent registrations. Contribution snapshot: October 17, 2026." src="assets/banner-light.svg" width="100%">
+  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. 1,051 merged PRs in the last 30 days; approximately 10 AI agent roles and 100+ peak concurrent OMP coding agents, excluding Aside. 7 merged upstream PRs, 4 hackathon first places, and US and Korean patent registrations. Snapshot: October 18, 2026; agent figures approximate from OMP logs." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 Fixes for problems I hit while running coding agents on real work.
 
-**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **5 open proposals** across those projects, OpenTelemetry Rust, ts-rs and Flutter. Counted October 18, 2026. The banners retain their October 17 snapshot of the same seven merged PRs.
+**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **5 open proposals** across those projects, OpenTelemetry Rust, ts-rs and Flutter. Counted October 18, 2026.
 
 - **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — Agent replies sent over messaging are acknowledged instead of reported as “no output.” · [Merged](https://github.com/can1357/oh-my-pi/pull/15834)
 - **[jcode](https://github.com/1jehuang/jcode)** — Contiguous typing, including Korean IME input, undoes in one step. · [Merged](https://github.com/1jehuang/jcode/pull/1714)
