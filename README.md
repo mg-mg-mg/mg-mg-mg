@@ -31,7 +31,7 @@
 
 </div>
 
-<sub>AI agents: omp coding agents and their sub-agents plus Aside browser agents, counted from session logs in 5-minute samples (peak October 15, 2026; average over the 7 days to October 18). Open session intervals can overstate active execution, and the counts include work beyond TriAstra. Merged PRs: product repository, counted October 18, 2026, all authors including bots. User and Rust server-library test figures are October 15–17, 2026 snapshots.</sub>
+<sub>AI agents: omp coding agents and their sub-agents plus Aside browser agents, counted from session logs in 5-minute samples (peak October 15, 2026, 07:30 KST, of which omp agents alone: 116; average over the 7 days to October 18). Open session intervals can overstate active execution, and the counts include work beyond TriAstra. Merged PRs: product repository, counted October 18, 2026, all authors including bots. User and Rust server-library test figures are October 15–17, 2026 snapshots.</sub>
 
 [How the agent team works →](https://mg-mg-mg.github.io/agentic-engineering/)
 
