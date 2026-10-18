@@ -4,7 +4,7 @@
 
 My recent upstream work focuses on coding-agent reliability, developer tools, and Rust infrastructure. This index includes merged changes, open proposals, closed unmerged proposals, and problem reports; these are different outcomes, not interchangeable claims of adoption.
 
-PR status snapshot: **October 18, 2026 at 09:24 UTC**: **7 merged, 5 open and 3 closed without merge** across the five recent upstream projects below. Counted with GitHub search `author:mg-mg-mg is:pr is:public -user:mg-mg-mg -org:TriAstra-ai`, filtered to those five repositories; earlier project-development PRs are excluded from these totals. Follow each linked PR for its current state. Issue statuses below retain their October 17 snapshot; “Closed” on an issue does not by itself establish that my proposed fix was merged.
+PR status snapshot: **October 18, 2026 at 15:12 UTC**: **7 merged, 6 open and 3 closed without merge** across the five recent upstream projects below. Counted with GitHub GraphQL search `author:mg-mg-mg is:pr is:public`, restricted to those five repositories; earlier project-development PRs are excluded from these totals. Follow each linked PR for its current state. Issue statuses retain their October 17 snapshot except the CodeGraph follow-through checked October 18; “Closed” on an issue does not by itself establish that my proposed fix was merged.
 
 ## Pull requests
 
@@ -28,6 +28,7 @@ The regular-file optimization in #15504 is distinct from the process-substitutio
 | --- | --- | --- |
 | Group contiguous TUI typing into one undo step, including Korean IME events | [#1714](https://github.com/1jehuang/jcode/pull/1714) | Merged |
 | Restore rustfmt in CI | [#1739](https://github.com/1jehuang/jcode/pull/1739) | Merged |
+| Preserve native Unicode text instead of inferring Option shortcuts | [#1888](https://github.com/1jehuang/jcode/pull/1888) | Open |
 | Support modifier-letter shortcuts on the Korean input source | [#1727](https://github.com/1jehuang/jcode/pull/1727) | Closed without merge |
 | Exclude quoted heredoc bodies inside command substitution from command-risk parsing | [#1752](https://github.com/1jehuang/jcode/pull/1752) | Closed without merge |
 | Cancel abandoned OpenAI transport attempts while preserving credential commits | [#1758](https://github.com/1jehuang/jcode/pull/1758) | Closed without merge |
@@ -55,10 +56,12 @@ Reporting a reproducible defect is a contribution, but it is not a claim of impl
 | jcode | [Destructive commands inside substitutions and heredocs are rated safe](https://github.com/1jehuang/jcode/issues/1753) | Closed |
 | jcode | [Stream producers survive cancellation and WebSocket sends lack a deadline](https://github.com/1jehuang/jcode/issues/1756) | Closed |
 | jcode | [OAuth refresh needs an end-to-end deadline without losing rotation safety](https://github.com/1jehuang/jcode/issues/1757) | Closed |
-| CodeGraph | [Multiline Axum route declarations do not link to handlers](https://github.com/colbymchenry/codegraph/issues/2326) | Closed |
-| CodeGraph | [Dart type-reference positions are missed](https://github.com/colbymchenry/codegraph/issues/2327) | Closed |
-| CodeGraph | [Rust enum variant paths are not linked to their enum](https://github.com/colbymchenry/codegraph/issues/2328) | Closed |
+| CodeGraph | [Multiline Axum route declarations do not link to handlers](https://github.com/colbymchenry/codegraph/issues/2326) | Closed; [fix on main](https://github.com/colbymchenry/codegraph/pull/2359), release pending |
+| CodeGraph | [Dart type-reference positions are missed](https://github.com/colbymchenry/codegraph/issues/2327) | Closed; [fix on main](https://github.com/colbymchenry/codegraph/pull/2360), release pending |
+| CodeGraph | [Rust enum variant paths are not linked to their enum](https://github.com/colbymchenry/codegraph/issues/2328) | Closed; [fix on main](https://github.com/colbymchenry/codegraph/pull/2354), release pending |
 | Aside | [Propose a file-based bridge to local coding-agent sessions](https://github.com/at-inc/docs/issues/6) | Open |
+
+**CodeGraph release status (checked October 18, 2026):** The three fix PRs above are maintainer-authored. The [latest GitHub release, v1.6.2](https://github.com/colbymchenry/codegraph/releases/tag/v1.6.2), and the published npm package still point to the October 3 source, before these fixes. These reports and diagnoses are not counted as additional merged PRs.
 
 ## Earlier public work
 

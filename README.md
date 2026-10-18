@@ -48,9 +48,11 @@
 
 ### Open source
 
-Fixes for problems I hit while running coding agents on real work.
+Fixes and reproducible reports from real coding-agent work and upstream investigations.
 
-**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **5 open proposals** across those projects, OpenTelemetry Rust, ts-rs and Flutter. Counted October 18, 2026.
+**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **6 open PRs** across those projects, OpenTelemetry Rust, ts-rs and Flutter. Counted October 18, 2026 (UTC).
+
+**Latest open PR:** [jcode #1888 — keep native Unicode text from triggering Option shortcuts](https://github.com/1jehuang/jcode/pull/1888).
 
 | Project | Fix | Status |
 | --- | --- | :---: |
@@ -58,6 +60,8 @@ Fixes for problems I hit while running coding agents on real work.
 | [jcode](https://github.com/1jehuang/jcode)<br>![stars](https://img.shields.io/github/stars/1jehuang/jcode?style=flat-square&logo=github&label=%E2%98%85&color=30363D) | Contiguous typing, including Korean IME input, undoes in one step. | [![Merged](https://img.shields.io/badge/merged-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/1jehuang/jcode/pull/1714) |
 | [OpenTelemetry Rust](https://github.com/open-telemetry/opentelemetry-rust)<br>![stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-rust?style=flat-square&logo=github&label=%E2%98%85&color=30363D) | A failed export is no longer hidden by a later successful batch during a flush. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) |
 | [Flutter](https://github.com/flutter/flutter)<br>![stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square&logo=github&label=%E2%98%85&color=30363D) | Keep Flutter SDK Git queries from inheriting a Git hook’s repository environment. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/flutter/flutter/pull/194429) |
+
+**Reports that became fixes:** [Three CodeGraph Rust/Dart reports](CONTRIBUTIONS.md#problem-reports-and-proposals) led to maintainer-authored fixes on `main`. A containing release is still pending (checked October 18, 2026).
 
 [All contributions →](CONTRIBUTIONS.md)
 
