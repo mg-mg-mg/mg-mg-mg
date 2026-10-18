@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. 7 merged upstream PRs, 4 hackathon first places, and US and Korean patent registrations. Contribution snapshot: October 17, 2026." src="assets/banner-light.svg" width="100%">
+  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. 776 TriAstra PRs merged in the last 7 days; approximately 10 AI agent roles and 100+ peak concurrent OMP coding agents, excluding Aside. 7 open-source fixes merged upstream, 4 hackathon first places, and US and Korean patent registrations. Snapshot: October 18, 2026; agent figures approximate from OMP logs." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -19,33 +19,33 @@
 
 **[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
 
-**1,051 merged PRs in the last 30 days (782 during October 11–18)** in the product repository — counted October 18, 2026, all authors including bots.
+**776 merged PRs in the last 7 days (1,051 in 30 days)** in the product repository — counted October 18, 2026, all authors including bots.
 
 <sub>User and Rust server-library test figures are October 15–17, 2026 snapshots.</sub>
 
 [How the agent team works →](https://mg-mg-mg.github.io/agentic-engineering/)
 
-### Open source
-
-Fixes for problems I hit while running coding agents on real work.
-
-**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **5 open proposals** across those projects, OpenTelemetry Rust, ts-rs and Flutter. Counted October 18, 2026. The banners retain their October 17 snapshot of the same seven merged PRs.
-
-- **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — Agent replies sent over messaging are acknowledged instead of reported as “no output.” · [Merged](https://github.com/can1357/oh-my-pi/pull/15834)
-- **[jcode](https://github.com/1jehuang/jcode)** — Contiguous typing, including Korean IME input, undoes in one step. · [Merged](https://github.com/1jehuang/jcode/pull/1714)
-- **[OpenTelemetry Rust](https://github.com/open-telemetry/opentelemetry-rust)** — A failed export is no longer hidden by a later successful batch during a flush. · [Open](https://github.com/open-telemetry/opentelemetry-rust/pull/3791)
-- **[Flutter](https://github.com/flutter/flutter)** (~180k stars) — Keep Flutter SDK Git queries from inheriting a Git hook’s repository environment. · [Open](https://github.com/flutter/flutter/pull/194429)
-
-[All contributions →](CONTRIBUTIONS.md)
-
 ### Reliability log
 
-- Release-path code merged without required admission evidence → recorded the gap without backdating, completed evidence afterwards, and made the merge tool refuse missing or inconsistent admission lines.
+- A release-path change merged before its required verification evidence was recorded → recorded the miss without backdating, completed the evidence afterwards, and made the merge tool refuse release-path changes without it.
 - Independent review reproduced cleanup races that could delete a replaced file → fixed before merge with atomic quarantine rename and identity/content verification.
 - Production build sizing → budgeted 32 GB; measured a sampled 14.7 GB peak RSS and zero swap during one build, not a universal capacity guarantee.
 - A test fixture most likely inherited a Git hook's `GIT_*` environment and flipped `core.bare` in the shared repository → fixed with isolated Git environments; the same bug class is proposed upstream in [Flutter #194429](https://github.com/flutter/flutter/pull/194429) (open).
 
 Private-operation accounts, not publicly reproducible incident records. [Methods, limits and current practice →](https://mg-mg-mg.github.io/agentic-engineering/)
+
+### Open source
+
+Fixes for problems I hit while running coding agents on real work.
+
+**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **5 open proposals** across those projects, OpenTelemetry Rust, ts-rs and Flutter. Counted October 18, 2026.
+
+- **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — Agent replies sent over messaging are acknowledged instead of reported as “no output.” · [Merged](https://github.com/can1357/oh-my-pi/pull/15834)
+- **[jcode](https://github.com/1jehuang/jcode)** — Contiguous typing, including Korean IME input, undoes in one step. · [Merged](https://github.com/1jehuang/jcode/pull/1714)
+- **[OpenTelemetry Rust](https://github.com/open-telemetry/opentelemetry-rust)** — A failed export is no longer hidden by a later successful batch during a flush. · [Open](https://github.com/open-telemetry/opentelemetry-rust/pull/3791)
+- **[Flutter](https://github.com/flutter/flutter)** — Keep Flutter SDK Git queries from inheriting a Git hook’s repository environment. · [Open](https://github.com/flutter/flutter/pull/194429)
+
+[All contributions →](CONTRIBUTIONS.md)
 
 ### Stack
 
