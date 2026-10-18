@@ -15,13 +15,21 @@
   <img alt="Based in Seoul, South Korea" src="https://img.shields.io/badge/Based_in-Seoul%2C_KR-6E7781?style=flat-square">
 </p>
 
+<p align="center">
+  <img alt="Building TriAstra solo with an AI agent team. Making the tools behind AI agents reliable. Incidents become automated guardrails." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B7CF6&center=true&vCenter=true&width=720&lines=Building+TriAstra+solo+with+an+AI+agent+team;Making+the+tools+behind+AI+agents+reliable;Incidents+become+automated+guardrails">
+</p>
+
 ### Building
 
 **[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
 
+<div align="center">
+
 | Registered users | Languages | Rust server-library tests | Merged PRs (7 days · 30 days) |
 | :---: | :---: | :---: | :---: |
 | **1,700+** | **7** | **3,635** | **776 · 1,051** |
+
+</div>
 
 <sub>Merged PRs: product repository, counted October 18, 2026, all authors including bots. User and Rust server-library test figures are October 15–17, 2026 snapshots.</sub>
 
@@ -46,26 +54,34 @@ Fixes for problems I hit while running coding agents on real work.
 
 | Project | Fix | Status |
 | --- | --- | :---: |
-| [oh-my-pi](https://github.com/can1357/oh-my-pi) | Agent replies sent over messaging are acknowledged instead of reported as “no output.” | [![Merged](https://img.shields.io/badge/merged-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/can1357/oh-my-pi/pull/15834) |
-| [jcode](https://github.com/1jehuang/jcode) | Contiguous typing, including Korean IME input, undoes in one step. | [![Merged](https://img.shields.io/badge/merged-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/1jehuang/jcode/pull/1714) |
-| [OpenTelemetry Rust](https://github.com/open-telemetry/opentelemetry-rust) | A failed export is no longer hidden by a later successful batch during a flush. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) |
-| [Flutter](https://github.com/flutter/flutter) | Keep Flutter SDK Git queries from inheriting a Git hook’s repository environment. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/flutter/flutter/pull/194429) |
+| [oh-my-pi](https://github.com/can1357/oh-my-pi)<br>![stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat-square&logo=github&label=%E2%98%85&color=30363D) | Agent replies sent over messaging are acknowledged instead of reported as “no output.” | [![Merged](https://img.shields.io/badge/merged-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/can1357/oh-my-pi/pull/15834) |
+| [jcode](https://github.com/1jehuang/jcode)<br>![stars](https://img.shields.io/github/stars/1jehuang/jcode?style=flat-square&logo=github&label=%E2%98%85&color=30363D) | Contiguous typing, including Korean IME input, undoes in one step. | [![Merged](https://img.shields.io/badge/merged-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/1jehuang/jcode/pull/1714) |
+| [OpenTelemetry Rust](https://github.com/open-telemetry/opentelemetry-rust)<br>![stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-rust?style=flat-square&logo=github&label=%E2%98%85&color=30363D) | A failed export is no longer hidden by a later successful batch during a flush. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) |
+| [Flutter](https://github.com/flutter/flutter)<br>![stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square&logo=github&label=%E2%98%85&color=30363D) | Keep Flutter SDK Git queries from inheriting a Git hook’s repository environment. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/flutter/flutter/pull/194429) |
 
 [All contributions →](CONTRIBUTIONS.md)
 
 ### Stack
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<p align="left">
+  <a href="#stack"><img alt="Rust, TypeScript, Python, PostgreSQL, Redis, Kafka, AWS, GCP, Cloudflare, Terraform, Kubernetes" src="https://skillicons.dev/icons?i=rust,ts,py,postgres,redis,kafka,aws,gcp,cloudflare,terraform,kubernetes&perline=11"></a>
+</p>
+
+<sub>Rust · TypeScript · Python · PostgreSQL · Redis · Kafka · AWS · GCP · Cloudflare · Terraform · Kubernetes</sub>
+
+### GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/profile-night-rainbow.svg">
+  <img alt="3D contribution calendar for mg-mg-mg, regenerated daily by a GitHub Action" src="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/profile-green-animate.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/github-snake-dark.svg">
+  <img alt="Contribution graph eaten by a snake, regenerated daily by a GitHub Action" src="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/github-snake.svg" width="100%">
+</picture>
+
+<sub>Includes private-repository contribution counts shown on this profile. Regenerated daily.</sub>
 
 ### Hackathon awards
 
