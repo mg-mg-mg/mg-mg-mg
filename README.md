@@ -69,6 +69,11 @@ Fixes and reproducible reports from real coding-agent work and upstream investig
 
 <table>
   <tr>
+    <td><b>AI &amp; agents</b></td>
+    <td><a href="https://github.com/can1357/oh-my-pi"><img alt="omp (oh-my-pi)" src="https://img.shields.io/badge/omp%20(oh--my--pi)-1F2937?style=for-the-badge"></a> <a href="https://github.com/1jehuang/jcode"><img alt="jcode" src="https://img.shields.io/badge/jcode-111111?style=for-the-badge"></a> <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge"> <img alt="Aside browser agent" src="https://img.shields.io/badge/Aside%20browser%20agent-4B5563?style=for-the-badge"><br>
+      <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square"> <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-191919?style=flat-square&logo=anthropic&logoColor=white"> <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"> <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"> <img alt="OpenAI Apps SDK" src="https://img.shields.io/badge/OpenAI%20Apps%20SDK-412991?style=flat-square"></td>
+  </tr>
+  <tr>
     <td><b>Languages</b></td>
     <td><img alt="Rust, TypeScript, JavaScript, Python, Go, Dart, Java, Ruby" src="https://skillicons.dev/icons?i=rust,ts,js,py,go,dart,java,ruby" height="40"><br>
       <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square"></td>
@@ -96,10 +101,6 @@ Fixes and reproducible reports from real coding-agent work and upstream investig
     <td><b>Observability & testing</b></td>
     <td><img alt="Grafana, Sentry, Vitest, Jest" src="https://skillicons.dev/icons?i=grafana,sentry,vitest,jest" height="40"><br>
       <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"> <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"> <img alt="New Relic" src="https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white"> <img alt="PostHog" src="https://img.shields.io/badge/PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white"> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"></td>
-  </tr>
-  <tr>
-    <td><b>AI & agents</b></td>
-    <td><img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square"> <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-10A37F?style=flat-square"> <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"> <img alt="OpenAI Apps SDK" src="https://img.shields.io/badge/OpenAI%20Apps%20SDK-412991?style=flat-square"></td>
   </tr>
   <tr>
     <td><b>Web3</b></td>
