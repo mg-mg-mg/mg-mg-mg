@@ -6,10 +6,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mg-chae/"><img alt="LinkedIn: mg-chae" src="https://img.shields.io/badge/LinkedIn-mg--chae-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:coalsrbs7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-coalsrbs7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://mg-mg-mg.github.io/agentic-engineering/"><img alt="Engineering case study" src="https://img.shields.io/badge/Case_study-Agentic_engineering-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://triastra.ai"><img alt="TriAstra" src="https://img.shields.io/badge/Product-TriAstra-5B4BDB?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/mg-chae/"><img alt="LinkedIn: mg-chae" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:coalsrbs7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mg-mg-mg.github.io/agentic-engineering/"><img alt="Engineering case study" src="https://img.shields.io/badge/Case_study-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://triastra.ai"><img alt="TriAstra" src="https://img.shields.io/badge/TriAstra-5B4BDB?style=for-the-badge"></a>
   <br>
   <img alt="Open to remote opportunities and relocation" src="https://img.shields.io/badge/Open_to-remote_%26_relocation-2EA44F?style=flat-square">
   <img alt="Based in Seoul, South Korea" src="https://img.shields.io/badge/Based_in-Seoul%2C_KR-6E7781?style=flat-square">
