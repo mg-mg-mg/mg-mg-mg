@@ -19,9 +19,9 @@
 
 **[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
 
-**Engineering scale:** 1,054 repository-wide merged PRs since September 15, 2026; 1,051 in the last 30 UTC calendar days (September 19–October 18), including 782 during October 11–18. Counted October 18, 2026; all authors, including bots.
+**1,051 merged PRs in the last 30 days (782 during October 11–18)** in the product repository — counted October 18, 2026, all authors including bots.
 
-<sub>Registered-user and Rust server-library test figures retain their October 15–17, 2026 snapshot; they were not remeasured for this update. PR counts use GitHub merged-date search, not a measure of quality or individual productivity; October 18 is a partial day.</sub>
+<sub>User and Rust server-library test figures are October 15–17, 2026 snapshots.</sub>
 
 [How the agent team works →](https://mg-mg-mg.github.io/agentic-engineering/)
 
@@ -43,7 +43,7 @@ Fixes for problems I hit while running coding agents on real work.
 - Release-path code merged without required admission evidence → recorded the gap without backdating, completed evidence afterwards, and made the merge tool refuse missing or inconsistent admission lines.
 - Independent review reproduced cleanup races that could delete a replaced file → fixed before merge with atomic quarantine rename and identity/content verification.
 - Production build sizing → budgeted 32 GB; measured a sampled 14.7 GB peak RSS and zero swap during one build, not a universal capacity guarantee.
-- A Git hook leaked repository variables into a test fixture and flipped `core.bare` → isolated Git environments locally; proposed the same bug-class fix in [Flutter #194429](https://github.com/flutter/flutter/pull/194429) (open).
+- A test fixture most likely inherited a Git hook's `GIT_*` environment and flipped `core.bare` in the shared repository → fixed with isolated Git environments; the same bug class is proposed upstream in [Flutter #194429](https://github.com/flutter/flutter/pull/194429) (open).
 
 Private-operation accounts, not publicly reproducible incident records. [Methods, limits and current practice →](https://mg-mg-mg.github.io/agentic-engineering/)
 
