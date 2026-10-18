@@ -63,11 +63,48 @@ Fixes for problems I hit while running coding agents on real work.
 
 ### Stack
 
-<p align="left">
-  <a href="#stack"><img alt="Rust, TypeScript, Python, PostgreSQL, Redis, Kafka, AWS, GCP, Cloudflare, Terraform, Kubernetes" src="https://skillicons.dev/icons?i=rust,ts,py,postgres,redis,kafka,aws,gcp,cloudflare,terraform,kubernetes&perline=11"></a>
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img alt="Rust, TypeScript, JavaScript, Python, Dart, Java, Ruby" src="https://skillicons.dev/icons?i=rust,ts,js,py,dart,java,ruby" height="40"><br>
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img alt="Django, NestJS, Spring Boot, Ruby on Rails" src="https://skillicons.dev/icons?i=django,nestjs,spring,rails" height="40"><br>
+      <img alt="Axum" src="https://img.shields.io/badge/Axum-8B4513?style=flat-square"> <img alt="Tokio" src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white"> <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"> <img alt="REST / OpenAPI" src="https://img.shields.io/badge/REST%20%2F%20OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"> <img alt="WebSockets · SSE" src="https://img.shields.io/badge/WebSockets%20%C2%B7%20SSE-4A4A55?style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><b>Frontend & mobile</b></td>
+    <td><img alt="React, Flutter, Vite, Tailwind CSS" src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind" height="40"></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img alt="PostgreSQL, MySQL, Redis, Kafka, Prisma" src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,prisma" height="40"><br>
+      <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"> <img alt="SQLx" src="https://img.shields.io/badge/SQLx-DEA584?style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & delivery</b></td>
+    <td><img alt="AWS, GCP, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions" src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,terraform,githubactions" height="40"><br>
+      <img alt="Spinnaker" src="https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><b>Observability & testing</b></td>
+    <td><img alt="Grafana, Sentry, Vitest, Jest" src="https://skillicons.dev/icons?i=grafana,sentry,vitest,jest" height="40"><br>
+      <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"> <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"> <img alt="New Relic" src="https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white"> <img alt="PostHog" src="https://img.shields.io/badge/PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white"> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><b>AI & agents</b></td>
+    <td><img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square"> <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-10A37F?style=flat-square"> <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"> <img alt="OpenAI Apps SDK" src="https://img.shields.io/badge/OpenAI%20Apps%20SDK-412991?style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><b>Web3</b></td>
+    <td><img alt="Solidity" src="https://skillicons.dev/icons?i=solidity" height="40"><br>
+      <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"> <img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"></td>
+  </tr>
+</table>
 
-<sub>Rust · TypeScript · Python · PostgreSQL · Redis · Kafka · AWS · GCP · Cloudflare · Terraform · Kubernetes</sub>
+<sub>Technologies I have used in production or shipped projects, per my CV and repositories.</sub>
 
 ### GitHub activity
 
