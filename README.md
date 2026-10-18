@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. 776 TriAstra PRs merged in the last 7 days; approximately 10 AI agent roles and 100+ peak concurrent OMP coding agents, excluding Aside. 7 open-source fixes merged upstream, 4 hackathon first places, and US and Korean patent registrations. Snapshot: October 18, 2026; agent figures approximate from OMP logs." src="assets/banner-light.svg" width="100%">
+  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. Peak of 123 AI agents running at once and about 60 on average over the last 7 days (omp coding agents and sub-agents plus Aside browser agents, from session logs; approximate). 776 TriAstra PRs merged in the last 7 days. 7 open-source fixes merged upstream, 4 hackathon first places, and US and Korean patent registrations. Snapshot: October 18, 2026." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -25,13 +25,13 @@
 
 <div align="center">
 
-| Registered users | Languages | Rust server-library tests | Merged PRs (7 days · 30 days) |
-| :---: | :---: | :---: | :---: |
-| **1,700+** | **7** | **3,635** | **776 · 1,051** |
+| Peak AI agents at once (7-day avg) | Registered users | Languages | Rust server-library tests | Merged PRs (7 days · 30 days) |
+| :---: | :---: | :---: | :---: | :---: |
+| **123** (~60) | **1,700+** | **7** | **3,635** | **776 · 1,051** |
 
 </div>
 
-<sub>Merged PRs: product repository, counted October 18, 2026, all authors including bots. User and Rust server-library test figures are October 15–17, 2026 snapshots.</sub>
+<sub>AI agents: omp coding agents and their sub-agents plus Aside browser agents, counted from session logs in 5-minute samples (peak October 15, 2026, 07:30 KST, of which omp agents alone: 116; average over the 7 days to October 18). Open session intervals can overstate active execution, and the counts include work beyond TriAstra. Merged PRs: product repository, counted October 18, 2026, all authors including bots. User and Rust server-library test figures are October 15–17, 2026 snapshots.</sub>
 
 [How the agent team works →](https://mg-mg-mg.github.io/agentic-engineering/)
 
