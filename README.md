@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. 1,051 merged PRs in the last 30 days; approximately 10 AI agent roles and 100+ peak concurrent OMP coding agents, excluding Aside. 7 merged upstream PRs, 4 hackathon first places, and US and Korean patent registrations. Snapshot: October 18, 2026; agent figures approximate from OMP logs." src="assets/banner-light.svg" width="100%">
+  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. 776 merged PRs in the last 7 days; approximately 10 AI agent roles and 100+ peak concurrent OMP coding agents, excluding Aside. 7 merged upstream PRs, 4 hackathon first places, and US and Korean patent registrations. Snapshot: October 18, 2026; agent figures approximate from OMP logs." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 **[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
 
-**1,051 merged PRs in the last 30 days (782 during October 11–18)** in the product repository — counted October 18, 2026, all authors including bots.
+**776 merged PRs in the last 7 days (1,051 in 30 days)** in the product repository — counted October 18, 2026, all authors including bots.
 
 <sub>User and Rust server-library test figures are October 15–17, 2026 snapshots.</sub>
 
