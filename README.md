@@ -83,7 +83,7 @@ Fixes for problems I hit while running coding agents on real work.
   <img alt="Contribution graph eaten by a snake, regenerated daily by a GitHub Action" src="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/github-snake.svg" width="100%">
 </picture>
 
-<sub>Counts include private-repository contributions shown on this profile. The snake is regenerated daily by a GitHub Action.</sub>
+<sub>Live activity cards, not dated evidence: the streak card (streak-stats.demolab.com) and the snake (regenerated daily by this repository’s GitHub Action) read GitHub’s public contribution calendar for this account, which counts private-repository work only as anonymous totals. Contribution totals and streaks are activity counts, not a productivity or delivery metric, and are separate from the dated merged-PR figures above. Upstream star counts are live from shields.io.</sub>
 
 ### Hackathon awards
 
