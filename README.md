@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img alt="Building TriAstra solo with an AI agent team. Making the tools behind AI agents reliable. Incidents become automated guardrails." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B7CF6&center=true&vCenter=true&width=720&lines=Building+TriAstra+solo+with+an+AI+agent+team;Making+the+tools+behind+AI+agents+reliable;Incidents+become+automated+guardrails">
+  <img alt="Building TriAstra solo with an AI agent team. Making the tools behind AI agents reliable. Incidents become automated guardrails." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B7CF6&center=true&vCenter=true&width=900&lines=Building+TriAstra+solo+with+an+AI+agent+team;Making+the+tools+behind+AI+agents+reliable;Incidents+become+automated+guardrails">
 </p>
 
 ### Building
@@ -71,17 +71,19 @@ Fixes for problems I hit while running coding agents on real work.
 
 ### GitHub activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/profile-night-rainbow.svg">
-  <img alt="3D contribution calendar for mg-mg-mg, regenerated daily by a GitHub Action" src="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/profile-green-animate.svg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mg-mg-mg&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img alt="GitHub contribution streak for mg-mg-mg" src="https://streak-stats.demolab.com?user=mg-mg-mg&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/github-snake-dark.svg">
   <img alt="Contribution graph eaten by a snake, regenerated daily by a GitHub Action" src="https://raw.githubusercontent.com/mg-mg-mg/mg-mg-mg/output/github-snake.svg" width="100%">
 </picture>
 
-<sub>Includes private-repository contribution counts shown on this profile. Regenerated daily.</sub>
+<sub>Counts include private-repository contributions shown on this profile. The snake is regenerated daily by a GitHub Action.</sub>
 
 ### Hackathon awards
 
