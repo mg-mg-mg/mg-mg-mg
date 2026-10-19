@@ -33,6 +33,8 @@ The regular-file optimization in #15504 is distinct from the process-substitutio
 | Exclude quoted heredoc bodies inside command substitution from command-risk parsing | [#1752](https://github.com/1jehuang/jcode/pull/1752) | Closed without merge |
 | Cancel abandoned OpenAI transport attempts while preserving credential commits | [#1758](https://github.com/1jehuang/jcode/pull/1758) | Closed without merge |
 
+**#1888 follow-through (October 19, 2026):** Compared completed PR CI jobs with upstream's existing run at the exact base commit: the same eight Linux test failures and eleven macOS warning-budget diagnostics already occur without this patch. [Evidence and limits](https://github.com/1jehuang/jcode/pull/1888#issuecomment-6269776448). The PR remains open; this is CI diagnosis, not another merged fix.
+
 ### Rust infrastructure and Flutter
 
 | Project | Contribution | PR | Status |
