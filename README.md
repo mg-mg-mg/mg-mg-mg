@@ -50,9 +50,9 @@
 
 Fixes and reproducible reports from real coding-agent work and upstream investigations.
 
-**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **6 open PRs** across those projects, OpenTelemetry Rust, ts-rs and Flutter. Counted October 18, 2026 (UTC).
+**7 merged PRs** across [oh-my-pi](https://github.com/can1357/oh-my-pi) and [jcode](https://github.com/1jehuang/jcode), including shell execution, agent coordination and Korean IME input; **7 open PRs** across those projects, OpenTelemetry Rust, ts-rs, Flutter and swisseph. Counted October 21, 2026 (UTC).
 
-**Latest open PR:** [jcode #1888 — keep native Unicode text from triggering Option shortcuts](https://github.com/1jehuang/jcode/pull/1888).
+**Latest open PR:** [swisseph #1 — stop C error-buffer decoding at the first NUL](https://github.com/sawfan/swisseph_rs/pull/1).
 
 | Project | Fix | Status |
 | --- | --- | :---: |
@@ -60,6 +60,7 @@ Fixes and reproducible reports from real coding-agent work and upstream investig
 | [jcode](https://github.com/1jehuang/jcode)<br>![stars](https://img.shields.io/github/stars/1jehuang/jcode?style=flat-square&logo=github&label=%E2%98%85&color=30363D&cacheSeconds=21600) | Contiguous typing, including Korean IME input, undoes in one step. | [![Merged](https://img.shields.io/badge/merged-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/1jehuang/jcode/pull/1714) |
 | [OpenTelemetry Rust](https://github.com/open-telemetry/opentelemetry-rust)<br>![stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-rust?style=flat-square&logo=github&label=%E2%98%85&color=30363D&cacheSeconds=21600) | A failed export is no longer hidden by a later successful batch during a flush. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) |
 | [Flutter](https://github.com/flutter/flutter)<br>![stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square&logo=github&label=%E2%98%85&color=30363D&cacheSeconds=21600) | Keep Flutter SDK Git queries from inheriting a Git hook’s repository environment. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/flutter/flutter/pull/194429) |
+| [swisseph](https://github.com/sawfan/swisseph_rs)<br>![stars](https://img.shields.io/github/stars/sawfan/swisseph_rs?style=flat-square&logo=github&label=%E2%98%85&color=30363D&cacheSeconds=21600) | Keep native error messages free of NUL padding and stale buffer bytes. | [![Open](https://img.shields.io/badge/open-1F883D?style=flat-square&logo=github&logoColor=white)](https://github.com/sawfan/swisseph_rs/pull/1) |
 
 **Reports that became fixes:** [Three CodeGraph Rust/Dart reports](CONTRIBUTIONS.md#problem-reports-and-proposals) led to maintainer-authored fixes on `main`. A containing release is still pending (checked October 18, 2026).
 

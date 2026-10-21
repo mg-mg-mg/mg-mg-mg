@@ -4,7 +4,7 @@
 
 My recent upstream work focuses on coding-agent reliability, developer tools, and Rust infrastructure. This index includes merged changes, open proposals, closed unmerged proposals, and problem reports; these are different outcomes, not interchangeable claims of adoption.
 
-PR status snapshot: **October 18, 2026 at 15:12 UTC**: **7 merged, 6 open and 3 closed without merge** across the five recent upstream projects below. Counted with GitHub GraphQL search `author:mg-mg-mg is:pr is:public`, restricted to those five repositories; earlier project-development PRs are excluded from these totals. Follow each linked PR for its current state. Issue statuses retain their October 17 snapshot except the CodeGraph follow-through checked October 18; “Closed” on an issue does not by itself establish that my proposed fix was merged.
+PR status snapshot: **October 21, 2026 (UTC)**: **7 merged, 7 open and 3 closed without merge** across the six recent upstream projects below. Counted with GitHub PR search restricted to those six repositories and direct readback of the new PR; earlier project-development PRs are excluded from these totals. Follow each linked PR for its current state. Issue statuses retain their October 17 snapshot except the CodeGraph follow-through checked October 18; “Closed” on an issue does not by itself establish that my proposed fix was merged.
 
 ## Pull requests
 
@@ -42,6 +42,9 @@ The regular-file optimization in #15504 is distinct from the process-substitutio
 | OpenTelemetry Rust | Preserve batch export errors during span flushes | [#3791](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) | Open |
 | ts-rs | Remove trailing spaces before documented fields | [#501](https://github.com/Aleph-Alpha/ts-rs/pull/501) | Open |
 | Flutter | Prevent SDK Git queries from re-inheriting a hook's repository environment | [#194429](https://github.com/flutter/flutter/pull/194429) | Open |
+| swisseph | Decode native C error buffers only up to their first NUL | [#1](https://github.com/sawfan/swisseph_rs/pull/1) | Open |
+
+**swisseph #1 verification:** An actual native error went from 174 NUL bytes to zero while preserving its original 78-byte cause exactly. The exact-source decoder tests and isolated Clippy checks pass. The current upstream crate's separate VFS build failures remain; this is not a full-crate build or production-integration claim. [Verification and limitations](https://github.com/sawfan/swisseph_rs/pull/1).
 
 ## Problem reports and proposals
 
