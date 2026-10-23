@@ -29,9 +29,11 @@ The regular-file optimization in #15504 is distinct from the process-substitutio
 | Group contiguous TUI typing into one undo step, including Korean IME events | [#1714](https://github.com/1jehuang/jcode/pull/1714) | Merged |
 | Restore rustfmt in CI | [#1739](https://github.com/1jehuang/jcode/pull/1739) | Merged |
 | Preserve native Unicode text instead of inferring Option shortcuts | [#1888](https://github.com/1jehuang/jcode/pull/1888) | Open |
-| Support modifier-letter shortcuts on the Korean input source | [#1727](https://github.com/1jehuang/jcode/pull/1727) | Closed without merge |
-| Exclude quoted heredoc bodies inside command substitution from command-risk parsing | [#1752](https://github.com/1jehuang/jcode/pull/1752) | Closed without merge |
-| Cancel abandoned OpenAI transport attempts while preserving credential commits | [#1758](https://github.com/1jehuang/jcode/pull/1758) | Closed without merge |
+| Support modifier-letter shortcuts on the Korean input source | [#1727](https://github.com/1jehuang/jcode/pull/1727) | Closed without merge; [squash-landed on master](https://github.com/1jehuang/jcode/commit/a90e9b08241db8af9f301aa463c3b797305222fc) |
+| Exclude quoted heredoc bodies inside command substitution from command-risk parsing | [#1752](https://github.com/1jehuang/jcode/pull/1752) | Closed without merge; [landed on master](https://github.com/1jehuang/jcode/commit/dea8a4ad0dd28d4f02dbf59142eda8ec00c83e65) |
+| Cancel abandoned OpenAI transport attempts while preserving credential commits | [#1758](https://github.com/1jehuang/jcode/pull/1758) | Closed without merge; [integrated into master](https://github.com/1jehuang/jcode/commit/6a67632543cab77029536b9a0441c71cecbb27ff) |
+
+**Integrated changes, not merged PRs:** All three linked commits retain my authorship. The maintainer confirmed the landing of [#1727](https://github.com/1jehuang/jcode/pull/1727#issuecomment-6104953010), [#1752](https://github.com/1jehuang/jcode/pull/1752#issuecomment-6104254715) and [#1758](https://github.com/1jehuang/jcode/pull/1758#issuecomment-6098656577). For #1752, the maintainer also [adapted the tests](https://github.com/1jehuang/jcode/commit/5d2afd536ca92f223be9168da4ed0e312ca69378) and [removed panic-prone access](https://github.com/1jehuang/jcode/commit/28e8c4b6dc0af1ddf9f5633ad14167b89cabebf8); those follow-up commits are theirs. These three landed changes are separate from the seven GitHub-merged PRs in the snapshot above.
 
 **#1888 follow-through (October 19, 2026):** Compared completed PR CI jobs with upstream's existing run at the exact base commit: the same eight Linux test failures and eleven macOS warning-budget diagnostics already occur without this patch. [Evidence and limits](https://github.com/1jehuang/jcode/pull/1888#issuecomment-6269776448). The PR remains open; this is CI diagnosis, not another merged fix.
 
