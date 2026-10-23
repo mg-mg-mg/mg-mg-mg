@@ -41,10 +41,12 @@ The regular-file optimization in #15504 is distinct from the process-substitutio
 
 | Project | Contribution | PR | Status |
 | --- | --- | --- | --- |
-| OpenTelemetry Rust | Preserve batch export errors during span flushes | [#3791](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) | Open |
+| OpenTelemetry Rust | Preserve the first batch export error during span and log flushes | [#3791](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) | Open |
 | ts-rs | Remove trailing spaces before documented fields | [#501](https://github.com/Aleph-Alpha/ts-rs/pull/501) | Open |
 | Flutter | Prevent SDK Git queries from re-inheriting a hook's repository environment | [#194429](https://github.com/flutter/flutter/pull/194429) | Open |
 | swisseph | Decode native C error buffers only up to their first NUL | [#1](https://github.com/sawfan/swisseph_rs/pull/1) | Open |
+
+**OpenTelemetry #3791 follow-through (October 23, 2026):** Updated both processors' regressions to distinguish the first error from later errors, including two- and three-failure cases, and merged current upstream into the PR branch without rewriting the published history. At the submitted head, SDK library tests passed (437 passed, 25 ignored), default-feature doctests passed (30 passed, 1 ignored), and strict Clippy, formatting and a public trace/log provider smoke passed. The PR remains open; these are local verification results, not an upstream merge or CI-completion claim. [Submitted update and verification](https://github.com/open-telemetry/opentelemetry-rust/pull/3791#issuecomment-6361808466).
 
 **swisseph #1 verification:** An actual native error went from 174 NUL bytes to zero while preserving its original 78-byte cause exactly. The exact-source decoder tests and isolated Clippy checks pass. The current upstream crate's separate VFS build failures remain; this is not a full-crate build or production-integration claim. [Verification and limitations](https://github.com/sawfan/swisseph_rs/pull/1).
 
