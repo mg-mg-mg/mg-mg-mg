@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. Peak of 123 AI agents running at once and about 60 on average over the last 7 days (omp coding agents and sub-agents plus Aside browser agents, from session logs; approximate). 776 TriAstra PRs merged in the last 7 days. 7 open-source fixes merged upstream, 4 hackathon first places, and US and Korean patent registrations. Snapshot: October 18, 2026." src="assets/banner-light.svg" width="100%">
+  <img alt="Mingyun Chae — Founder of TriAstra. Senior Backend & AI Agent Platform Engineer. Peak of 123 AI agents running at once and about 60 on average over the last 7 days (omp coding agents and sub-agents plus Aside browser agents). 776 TriAstra PRs merged in the last 7 days. 7 open-source fixes merged upstream, 4 hackathon first places, and US and Korean patent registrations. Snapshot: October 18, 2026." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
