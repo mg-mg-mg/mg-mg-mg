@@ -27,7 +27,7 @@
 
 | Peak AI agents at once (7-day avg) | Registered users | Languages | Rust server-library tests | Merged PRs (7 days · 30 days) |
 | :---: | :---: | :---: | :---: | :---: |
-| **123** (~60) | **1,700+** | **7** | **3,635** | **776 · 1,051** |
+| **123** (~60) | **2,100+** | **7** | **3,635** | **776 · 1,051** |
 
 </div>
 
