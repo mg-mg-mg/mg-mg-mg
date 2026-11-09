@@ -4,7 +4,7 @@
 
 My recent upstream work focuses on coding-agent reliability, developer tools, and Rust infrastructure. This index includes merged changes, open proposals, closed unmerged proposals, and problem reports; these are different outcomes, not interchangeable claims of adoption.
 
-Historical PR totals on **October 21, 2026 (UTC)**: **7 merged, 7 open and 3 closed without merge** across the six recent upstream projects below. Counted with GitHub PR search restricted to those six repositories and direct readback of the new PR; earlier project-development PRs are excluded from these totals. The rows include later additions and status changes: ts-rs #508, OpenTelemetry #3791, and oh-my-pi #18236 were checked November 9, 2026; other row statuses may be older. Follow each linked PR for its current state. Issue statuses retain their October 17 snapshot except the CodeGraph follow-through checked October 18; “Closed” on an issue does not by itself establish that my proposed fix was merged.
+Historical PR totals on **October 21, 2026 (UTC)**: **7 merged, 7 open and 3 closed without merge** across the six recent upstream projects below. Counted with GitHub PR search restricted to those six repositories and direct readback of the new PR; earlier project-development PRs are excluded from these totals. The rows include later additions and status changes: ts-rs #508, OpenTelemetry #3791, and oh-my-pi #18236 were checked November 9, 2026; other row statuses may be older. Follow each linked PR for its current state. Issue statuses retain their October 17 snapshot except the CodeGraph follow-through checked October 18 and oh-my-pi #16944 checked November 9; “Closed” on an issue does not by itself establish that my proposed fix was merged.
 
 ## Pull requests
 
@@ -61,6 +61,7 @@ Reporting a reproducible defect is a contribution, but it is not a claim of impl
 | oh-my-pi | [Shell `read` hangs on process-substitution input](https://github.com/can1357/oh-my-pi/issues/15501) | Closed |
 | oh-my-pi | [Clone-first worktrees copy gitignored secrets](https://github.com/can1357/oh-my-pi/issues/15476) | Open |
 | oh-my-pi | [Per-worktree build caches exhaust disk](https://github.com/can1357/oh-my-pi/issues/15475) | Open |
+| oh-my-pi | [Lease backend errors can permit session journal writes without ownership](https://github.com/can1357/oh-my-pi/issues/16944) | Open; labeled wontfix |
 | jcode | [Composer undo splits Korean IME input at arbitrary event boundaries](https://github.com/1jehuang/jcode/issues/1713) | Closed |
 | jcode | [Korean input source prevents modifier-letter shortcuts](https://github.com/1jehuang/jcode/issues/1738) | Closed |
 | jcode | [Quoted heredocs inside command substitution cause false command-risk prompts](https://github.com/1jehuang/jcode/issues/1751) | Closed |
