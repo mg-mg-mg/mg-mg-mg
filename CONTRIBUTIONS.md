@@ -19,6 +19,7 @@ PR status snapshot: **October 21, 2026 (UTC)**: **7 merged, 7 open and 3 closed 
 | Allow TERM cleanup before hard-killing cancelled jobs | [#15709](https://github.com/can1357/oh-my-pi/pull/15709) | Merged |
 | Unblock `mapfile`/`readarray` process-substitution producers | [#15647](https://github.com/can1357/oh-my-pi/pull/15647) | Open |
 | Report the persisted value replaced by a configuration save | [#15478](https://github.com/can1357/oh-my-pi/pull/15478) | Open |
+| Propose a typed outcome for authoritative task preflight rejections | [#18236](https://github.com/can1357/oh-my-pi/pull/18236) | Open |
 
 The regular-file optimization in #15504 is distinct from the process-substitution `read` deadlock: I reported that failure in [#15501](https://github.com/can1357/oh-my-pi/issues/15501), and the maintainer landed its fix in [#15509](https://github.com/can1357/oh-my-pi/pull/15509).
 
