@@ -43,6 +43,7 @@ The regular-file optimization in #15504 is distinct from the process-substitutio
 | --- | --- | --- | --- |
 | OpenTelemetry Rust | Preserve the first batch export error during span and log flushes | [#3791](https://github.com/open-telemetry/opentelemetry-rust/pull/3791) | Open |
 | ts-rs | Remove trailing spaces before documented fields | [#501](https://github.com/Aleph-Alpha/ts-rs/pull/501) | Open |
+| ts-rs | Add regression coverage for shared enum exports in both orders | [#508](https://github.com/Aleph-Alpha/ts-rs/pull/508) | Merged |
 | Flutter | Prevent SDK Git queries from re-inheriting a hook's repository environment | [#194429](https://github.com/flutter/flutter/pull/194429) | Open |
 | swisseph | Decode native C error buffers only up to their first NUL | [#1](https://github.com/sawfan/swisseph_rs/pull/1) | Open |
 
