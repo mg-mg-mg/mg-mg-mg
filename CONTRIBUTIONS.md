@@ -4,7 +4,7 @@
 
 My recent upstream work focuses on coding-agent reliability, developer tools, and Rust infrastructure. This index includes merged changes, open proposals, closed unmerged proposals, and problem reports; these are different outcomes, not interchangeable claims of adoption.
 
-PR status snapshot: **October 21, 2026 (UTC)**: **7 merged, 7 open and 3 closed without merge** across the six recent upstream projects below. Counted with GitHub PR search restricted to those six repositories and direct readback of the new PR; earlier project-development PRs are excluded from these totals. Follow each linked PR for its current state. Issue statuses retain their October 17 snapshot except the CodeGraph follow-through checked October 18; “Closed” on an issue does not by itself establish that my proposed fix was merged.
+Historical PR totals on **October 21, 2026 (UTC)**: **7 merged, 7 open and 3 closed without merge** across the six recent upstream projects below. Counted with GitHub PR search restricted to those six repositories and direct readback of the new PR; earlier project-development PRs are excluded from these totals. The rows include later additions and status changes: ts-rs #508, OpenTelemetry #3791, and oh-my-pi #18236 were checked November 9, 2026; other row statuses may be older. Follow each linked PR for its current state. Issue statuses retain their October 17 snapshot except the CodeGraph follow-through checked October 18; “Closed” on an issue does not by itself establish that my proposed fix was merged.
 
 ## Pull requests
 
