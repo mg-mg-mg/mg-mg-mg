@@ -19,6 +19,8 @@
   <img alt="Building TriAstra solo with an AI agent team. Making the tools behind AI agents reliable. Incidents become automated guardrails." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B7CF6&center=true&vCenter=true&width=900&lines=Building+TriAstra+solo+with+an+AI+agent+team;Making+the+tools+behind+AI+agents+reliable;Incidents+become+automated+guardrails">
 </p>
 
+**[AI Development Lessons →](https://github.com/mg-mg-mg/ai-development-lessons)** — a practical guide to building and shipping software with AI agents, from issue contracts and verification to safe operations.
+
 ### Building
 
 **[TriAstra](https://triastra.ai)** — a multilingual product I build and operate as a solo engineer with an AI agent team: Rust services, web and mobile clients, and a ChatGPT integration.
