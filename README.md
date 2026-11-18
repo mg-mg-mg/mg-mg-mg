@@ -80,36 +80,36 @@ Historical snapshot, October 21, 2026 (UTC): **7 merged PRs** across [oh-my-pi](
   </tr>
   <tr>
     <td><b>Languages</b></td>
-    <td><img alt="Rust, TypeScript, JavaScript, Python, Go, Dart, Java, Ruby" src="https://skillicons.dev/icons?i=rust,ts,js,py,go,dart,java,ruby" height="40"><br>
+    <td><img alt="Rust" src="https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square"> <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"><br>
       <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square"></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img alt="Django, NestJS, Spring Boot, Ruby on Rails" src="https://skillicons.dev/icons?i=django,nestjs,spring,rails" height="40"><br>
+    <td><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white"><br>
       <img alt="Axum" src="https://img.shields.io/badge/Axum-8B4513?style=flat-square"> <img alt="Tokio" src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white"> <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"> <img alt="REST / OpenAPI" src="https://img.shields.io/badge/REST%20%2F%20OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"> <img alt="WebSockets · SSE" src="https://img.shields.io/badge/WebSockets%20%C2%B7%20SSE-4A4A55?style=flat-square"></td>
   </tr>
   <tr>
     <td><b>Frontend & mobile</b></td>
-    <td><img alt="React, Flutter, Vite, Tailwind CSS" src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind" height="40"></td>
+    <td><img alt="React" src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=flutter&logoColor=white"> <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"></td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td><img alt="PostgreSQL, MySQL, Redis, Kafka, Prisma" src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,prisma" height="40"><br>
+    <td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"><br>
       <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"> <img alt="SQLx" src="https://img.shields.io/badge/SQLx-DEA584?style=flat-square"></td>
   </tr>
   <tr>
     <td><b>Cloud & delivery</b></td>
-    <td><img alt="AWS, GCP, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions" src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,terraform,githubactions" height="40"><br>
+    <td><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"> <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"><br>
       <img alt="Spinnaker" src="https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square"></td>
   </tr>
   <tr>
     <td><b>Observability & testing</b></td>
-    <td><img alt="Grafana, Sentry, Vitest, Jest" src="https://skillicons.dev/icons?i=grafana,sentry,vitest,jest" height="40"><br>
+    <td><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"> <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"> <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"> <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"><br>
       <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"> <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"> <img alt="New Relic" src="https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white"> <img alt="PostHog" src="https://img.shields.io/badge/PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white"> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"></td>
   </tr>
   <tr>
     <td><b>Web3</b></td>
-    <td><img alt="Solidity" src="https://skillicons.dev/icons?i=solidity" height="40"><br>
+    <td><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"><br>
       <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"> <img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"></td>
   </tr>
 </table>
