@@ -150,8 +150,7 @@ Named inventor at **Hyperconnect** ([acquired by Match Group for $1.725B](https:
 [![US12137302B2](https://img.shields.io/badge/US_patent-US12137302B2-0B5394?style=flat-square)](https://patents.google.com/patent/US12137302B2/en)
 [![KR102503049B1](https://img.shields.io/badge/KR_patent-KR102503049B1-C60C30?style=flat-square)](https://patents.google.com/patent/KR102503049B1/en)
 
-### Background
+### Education
 
-- Previously built payments and Web3 backends.
 - **B.S. in Computer Engineering**, Inha University (March 2014 – August 2021).
 - **Exchange Program in Computer Engineering**, TU Chemnitz, Germany (October 2020 – February 2021).
